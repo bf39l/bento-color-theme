@@ -2,6 +2,8 @@
 
 The Bento Color Theme is a VS Code theme extension inspired by Monkeytype's `bento` palette.
 
+Source code: `https://github.com/bf39l/bento-color-theme`
+
 ## Features
 
 - Bento-inspired workbench and editor colors.
@@ -26,7 +28,7 @@ The Bento Color Theme is a VS Code theme extension inspired by Monkeytype's `ben
 
 ## Screenshot
 
-![Bento VS Code](./doc/screenshots/vscode.png)
+![Bento VS Code](https://raw.githubusercontent.com/bf39l/bento-color-theme/main/vscode-bento-theme/doc/screenshots/vscode.png)
 
 ## Installation
 
@@ -53,7 +55,11 @@ This extension contributes a color theme and does not add custom settings.
 To package locally:
 
 1. Install `vsce`: `npm i -g @vscode/vsce`
-2. Run `vsce package` from this folder.
+2. Run `vsce package --out ./outputs` from this folder.
+
+To publish to the Visual Studio Marketplace:
+
+1. Run `vsce publish` from this folder.
 
 ## Release Notes
 
