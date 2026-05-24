@@ -1,0 +1,24 @@
+name: Bento
+accent: '#ff7a90'
+background: '#2d394d'
+foreground: '#fffaf8'
+details: darker
+terminal_colors:
+  normal:
+    black: '#263041'
+    red: '#ee2a3a'
+    green: '#5b879f'
+    yellow: '#ff7a90'
+    blue: '#6d95a9'
+    magenta: '#ff7a90'
+    cyan: '#9ab0bf'
+    white: '#fffaf8'
+  bright:
+    black: '#8da3b3'
+    red: '#f04040'
+    green: '#5b879f'
+    yellow: '#ff95a6'
+    blue: '#6d95a9'
+    magenta: '#ff9fb0'
+    cyan: '#9ab0bf'
+    white: '#ffffff'

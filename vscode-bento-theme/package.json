@@ -1,0 +1,43 @@
+{
+  "name": "bento-vscode-theme",
+  "displayName": "Bento Theme",
+  "description": "A VS Code color theme inspired by Monkeytype's Bento palette.",
+  "version": "0.0.1",
+  "publisher": "local",
+  "license": "GPL-3.0-only",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bf39l/bento-color-theme.git"
+  },
+  "homepage": "https://github.com/bf39l/bento-color-theme",
+  "bugs": {
+    "url": "https://github.com/bf39l/bento-color-theme/issues"
+  },
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "bento"
+  ],
+  "files": [
+    "themes/**",
+    "README.md",
+    "CHANGELOG.md",
+    "LICENSE",
+    "package.json"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Bento",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bento-color-theme.json"
+      }
+    ]
+  }
+}
