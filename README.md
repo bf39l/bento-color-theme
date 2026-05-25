@@ -22,7 +22,7 @@ Palette:
 
 ## What Is In Here
 
-- `vscode-bento-theme/`: VS Code theme extension source
+- `vscode-bento-dark-theme/`: VS Code theme extension source
 - `terminal/`: terminal presets for Warp, iTerm2, and Ghostty
 
 ## Current Values
@@ -43,7 +43,7 @@ Terminal presets use `bright black` = `#8da3b3` so autosuggestion/hint text is v
 
 ## Screenshots
 
-![Bento VS Code](vscode-bento-theme/doc/screenshots/vscode.png)
+![Bento VS Code](vscode-bento-dark-theme/doc/screenshots/vscode.png)
 ![Bento Ghostty](terminal/doc/screenshots/ghostty.png)
 ![Bento iTerm2](terminal/doc/screenshots/iterm2.png)
 ![Bento Warp](terminal/doc/screenshots/warp.png)
@@ -70,5 +70,5 @@ Keep attribution and license notices when redistributing derivative versions.
 
 ## Install Targets
 
-- VS Code: see `vscode-bento-theme/README.md`
+- VS Code: see `vscode-bento-dark-theme/README.md`
 - Terminal presets: see `terminal/README.md`

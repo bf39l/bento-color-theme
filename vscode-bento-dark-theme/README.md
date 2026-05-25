@@ -28,7 +28,7 @@ Source code: `https://github.com/bf39l/bento-color-theme`
 
 ## Screenshot
 
-![Bento VS Code](https://raw.githubusercontent.com/bf39l/bento-color-theme/main/vscode-bento-theme/doc/screenshots/vscode.png)
+![Bento VS Code](https://raw.githubusercontent.com/bf39l/bento-color-theme/main/vscode-bento-dark-theme/doc/screenshots/vscode.png)
 
 ## Installation
 
