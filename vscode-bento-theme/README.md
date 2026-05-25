@@ -61,6 +61,11 @@ To publish to the Visual Studio Marketplace:
 
 1. Run `vsce publish` from this folder.
 
+To unpublish from the Visual Studio Marketplace:
+
+1. Run `vsce unpublish bf39LMintysNZ.bento-vscode-theme` from this folder.
+2. To skip confirmation, run `vsce unpublish bf39LMintysNZ.bento-vscode-theme --force`.
+
 ## Release Notes
 
 See `CHANGELOG.md` for version history.
