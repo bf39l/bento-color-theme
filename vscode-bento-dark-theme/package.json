@@ -1,9 +1,9 @@
 {
   "name": "bento-vscode-dark-theme",
-  "displayName": "Bento Dark Theme (Monkeytype)",
+  "displayName": "Bento Dark Theme (Monkeytype Inspired)",
   "description": "A VS Code color theme inspired by Monkeytype's Bento palette.",
   "icon": "images/icon.png",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "bf39LMintysNZ",
   "license": "GPL-3.0-only",
   "repository": {
@@ -36,7 +36,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Bento Dark (Monkeytype)",
+        "label": "Bento Dark (Monkeytype Inspired)",
         "uiTheme": "vs-dark",
         "path": "./themes/bento-color-theme.json"
       }
